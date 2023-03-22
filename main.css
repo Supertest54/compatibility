@@ -1,0 +1,43 @@
+/*
+*{
+	box-sizing: border-box;
+}
+*/
+
+h1{
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.box{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 300px;
+	height: 300px;
+	text-align: left;
+}
+
+.button1{
+	margin-top: 11px;
+	width: 55px;
+	text-align: right;
+	float: right;
+	margin-left: 100%;
+	margin-right: 7px;
+}
+
+dl{
+	margin: 0;
+}
+
+input{
+	height: 22px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	width: 95%
+}
+
+dt{
+	text-align: left;
+}
+
