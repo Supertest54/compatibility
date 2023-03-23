@@ -1,9 +1,9 @@
-*{
-/*	box-sizing: border-box;*/
-	background: gray;
-	color: darkblue;
-	cursor: default;
-	cursor: default;
+.main{
+    background-image: url(../img/lll.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
 }
 
 h1{
